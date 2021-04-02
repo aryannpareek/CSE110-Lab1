@@ -1,4 +1,4 @@
-`img.JPG`
+<img src="img.JPG" alt="img" width="200"/>
 
 # The largest heading
 ## The second largest heading
