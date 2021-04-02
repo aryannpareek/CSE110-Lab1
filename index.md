@@ -17,7 +17,7 @@ This command allows you to go to a certain branch: `git checkout`
 Current price of [bitcoin](https://www.coinbase.com/price/bitcoin)
 
 ## Section Links:
-[Go back to external links section](https://aryannpareek.github.io/CSE110-Lab1/#external-links)
+[Go back to styling text section](https://aryannpareek.github.io/CSE110-Lab1/#styling-text)
 
 ## Relative Links:
 [README.md](README.md) 
