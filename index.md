@@ -1,4 +1,4 @@
-img.JPG
+`img.JPG`
 
 # The largest heading
 ## The second largest heading
@@ -17,7 +17,7 @@ This command allows you to go to a certain branch: `git checkout`
 Current price of [bitcoin](https://www.coinbase.com/price/bitcoin)
 
 ## Section Links:
-[Go to top](https://github.com/aryannpareek/CSE110-Lab1#cse110-lab1)
+[Go to top](https://github.com/aryannpareek/CSE110-Lab1/blob/main/index.md#the-largest-heading)
 
 ## Relative Links:
 [README.md](README.md)
