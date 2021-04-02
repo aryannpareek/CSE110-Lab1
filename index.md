@@ -20,7 +20,7 @@ Current price of [bitcoin](https://www.coinbase.com/price/bitcoin)
 [Go to top](https://github.com/aryannpareek/CSE110-Lab1/blob/main/index.md#the-largest-heading)
 
 ## Relative Links:
-[README.md](README.md)
+[README.md](README.md) 
 
 ## Lists:
 - I
